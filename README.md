@@ -2,6 +2,12 @@
 
 Carry a cooking pot and ladle on your OctoPack, then make a temporary camp to cook, rest, and repair. Two nearby players can join your camp without bringing their own Camping Kit.
 
+## Download
+
+- [Thunderstore](https://thunderstore.io/c/valheim/p/Bascinet/OctoPack_Camping_Kit/)
+- [Hexium](https://valheim.hexium.gg/mods/Bascinet/OctoPack_Camping_Kit)
+- [GitHub release 0.1.19](https://github.com/octerockman/OctoPack-Camping-Kit/releases/tag/v0.1.19)
+
 ![Camping Kit pot and ladle mounted on the backpack](https://raw.githubusercontent.com/octerockman/OctoPack-Camping-Kit/main/images/Camping-Kit-Cover-1920x1080.png)
 
 ## Features
