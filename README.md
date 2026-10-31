@@ -51,6 +51,12 @@ Camping Kit 0.1.19 includes a fix for cleanup during player shutdown. Automated 
 
 Join [OctoDad's Mods on Discord](https://discord.gg/RueyvSfX7R) for questions, bug reports, and news about future mods.
 
+## Support Studio Bascinet
+
+Enjoying the mod? Optional donations help support Studio Bascinet's mod development. Thank you for your support.
+
+[![Donate with PayPal button](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=BUC6767NR59C8)
+
 ## Development disclosure
 
 Developed with AI assistance from OpenAI Codex.
